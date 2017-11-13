@@ -1,0 +1,2 @@
+# SafeSinglton
+Examples#1
